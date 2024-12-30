@@ -1,7 +1,5 @@
 # Text2Pix
-<<<<<<< HEAD
 Text to Imgage generation using DALL-E
-=======
 
 # Text to Imgage generation using DALL-E
 
@@ -21,4 +19,3 @@ textual prompts.
 - **`background.jpg`**: Default background image for the Streamlit application.
 - **`requirements.txt`**: File containing the Python dependencies required for running the application.
 - **`img.png`**: Image generated using DALL-E.
->>>>>>> 714e373 (Initial commit)
