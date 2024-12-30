@@ -3,7 +3,12 @@ import streamlit as st
 import requests
 from PIL import Image
 from io import BytesIO
+from dotenv import load_dotenv
+import os
 
+# Load environment variables
+load_dotenv()
+HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
 # Function to add app background image
 
 
