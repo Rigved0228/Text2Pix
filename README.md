@@ -62,6 +62,6 @@ Contributions are welcome! To contribute:
 - Push your branch:
   ```bash
   git push origin feature-name  
-  '''
+  ```
 - Open a pull request.
 Feel free to open issues for bugs or feature requests!
